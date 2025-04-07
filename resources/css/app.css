@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.theme-footer{
+    background-color: bg-gray-800;
+}
+h1, h2, .logo-text {
+    font-family: 'Anton', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
